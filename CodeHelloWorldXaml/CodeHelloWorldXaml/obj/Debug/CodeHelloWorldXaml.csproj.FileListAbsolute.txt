@@ -1,0 +1,6 @@
+C:\Users\motos\source\repos\CodeHelloWorldXaml\CodeHelloWorldXaml\bin\Debug\CodeHelloWorldXaml.exe
+C:\Users\motos\source\repos\CodeHelloWorldXaml\CodeHelloWorldXaml\bin\Debug\CodeHelloWorldXaml.pdb
+C:\Users\motos\source\repos\CodeHelloWorldXaml\CodeHelloWorldXaml\obj\Debug\CodeHelloWorldXaml.csprojAssemblyReference.cache
+C:\Users\motos\source\repos\CodeHelloWorldXaml\CodeHelloWorldXaml\obj\Debug\CodeHelloWorldXaml.csproj.CoreCompileInputs.cache
+C:\Users\motos\source\repos\CodeHelloWorldXaml\CodeHelloWorldXaml\obj\Debug\CodeHelloWorldXaml.exe
+C:\Users\motos\source\repos\CodeHelloWorldXaml\CodeHelloWorldXaml\obj\Debug\CodeHelloWorldXaml.pdb
